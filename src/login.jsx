@@ -2,6 +2,7 @@ import React from "react";
 import { Checkbox } from "./Checkbox";
 import { Facebook } from "./Facebook";
 import "./style.css";
+import "./styleguide.css"
 
 export const SignIn = () => {
     return (
